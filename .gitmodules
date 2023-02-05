@@ -5,4 +5,5 @@
 [submodule "core"]
 	path = app/src/main/jni/breadwallet-core
 	url = https://github.com/michaelhdesigns/breadwallet-core.git
+	branch = master
 	ignore = dirty
